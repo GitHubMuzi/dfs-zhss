@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dfs.iml" filepath="$PROJECT_DIR$/.idea/dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-backupnode/dfs-backupnode.iml" filepath="$PROJECT_DIR$/dfs-backupnode/dfs-backupnode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-client/dfs-client.iml" filepath="$PROJECT_DIR$/dfs-client/dfs-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-datanode/dfs-datanode.iml" filepath="$PROJECT_DIR$/dfs-datanode/dfs-datanode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-namenode/dfs-namenode.iml" filepath="$PROJECT_DIR$/dfs-namenode/dfs-namenode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfs-rpc/dfs-rpc.iml" filepath="$PROJECT_DIR$/dfs-rpc/dfs-rpc.iml" />
+    </modules>
+  </component>
+</project>
